@@ -1,0 +1,65 @@
+.about{
+	text-align: center
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	font: serif;
+}
+.my-name {
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+.birthday{
+	color: red;
+	background-color: orange;
+	width: 235px;
+	display: inline-block;
+}
+.lala{
+	color: green;
+	margin: 10px;
+}
+.things{
+	color: blue;
+	border: 10px solid black;
+	width: 300px;
+	display: inline-block;
+	text-align: center; 
+}
+.goodra{
+	color: purple;
+	width: 100px;
+	display: inline-block;
+}
+.meme{
+	color: yellow;
+	border: groove yellow;
+}
+.pokemon{
+	color: purple;
+	border: 5px green;
+	margin: 8px;
+}
+.forest{
+	color: green;
+	width: 500px;
+	height: 300px;
+}
+.twoforest{
+	width: 500px;
+	height: 300px;
+
+}
+body{
+	text-align: center;
+	background-image: url(http://img00.deviantart.net/dead/i/2014/162/1/a/doge_almighty_by_ry_spirit-d7lxh5y.jpg);
+	background-size: 800px;
+
+}
+
+
+
+
+
